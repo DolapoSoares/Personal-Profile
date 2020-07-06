@@ -1,0 +1,10 @@
+img{
+    border-radius: 50%;
+    border: 10px rgb(196, 196, 199) solid;
+}
+body{
+    background-color: burlywood;
+}
+.down{
+    margin-top: 7%;
+}
